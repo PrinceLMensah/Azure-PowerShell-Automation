@@ -57,21 +57,7 @@ After running the script, a **report file (**``**)** is generated with details s
 
 ## **Why This Project?**
 
-This project demonstrates expertise in **PowerShell automation**, **Azure administration**, and **security best practices**, which are crucial for a Cloud Infrastructure Engineer role at WWF. It reduces operational overhead, improves security, and ensures disaster recovery compliance.
+This project demonstrates expertise in **PowerShell automation**, **Azure administration**, and **security best practices**, which are crucial for a Cloud Infrastructure Engineer role. It reduces operational overhead, improves security, and ensures disaster recovery compliance.
 
----
 
-## **Next Steps**
-
-- Enhance the script to support **multiple VM deployments**
-- Integrate **Azure Monitor** for real-time logging and alerts
-- Implement **role-based access control (RBAC)** for improved security
-
----
-
-## **Author**
-
-**[Your Name]**\
-Connect with me on [**LinkedIn**](https://linkedin.com/in/yourname)\
-View this project on [**GitHub**](https://github.com/yourgithubusername/Azure-PowerShell-Automation)
 
