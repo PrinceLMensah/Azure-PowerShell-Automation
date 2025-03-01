@@ -42,18 +42,6 @@ This PowerShell script automates the deployment of a **Windows Server 2022 Virtu
 - **Azure Backup Integration:** Ensures VM data is protected against failures.
 - **Locally Redundant Storage (LRS):** Used for backup and recovery compliance.
 
----
-
-## **Example Output**
-
-After running the script, a **report file (**``**)** is generated with details such as:
-
-- **VM Name & Public IP Address**
-- **Resource Group & Location**
-- **VM Status (Running, Stopped, etc.)**
-- **Backup Status**
-
----
 
 ## **Why This Project?**
 
