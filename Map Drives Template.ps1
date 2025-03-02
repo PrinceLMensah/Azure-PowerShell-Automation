@@ -1,4 +1,6 @@
 # Import Active Directory Module
+
+#Description: This script detects the user's department, deletes currente mapped drives & maps new drives. 
 Import-Module ActiveDirectory
 
 # Get the logged-in user's username
