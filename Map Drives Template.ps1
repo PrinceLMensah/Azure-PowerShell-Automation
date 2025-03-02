@@ -61,3 +61,6 @@ if ($ADUser -and $ADUser.Department) {
 } else {
     Write-Host "Department information not found for user: $User"
 }
+
+#Store script to shared folder
+# Deploy the Script via Group Policy (GPO)
